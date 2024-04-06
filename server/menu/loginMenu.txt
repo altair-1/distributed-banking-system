@@ -1,0 +1,11 @@
+@CLEAR
+NEXA BANK
+
+Bank of trust since 2020
+-------------------------
+Login Menu
+
+a. Login to your account
+b. Exit
+
+Enter your choice: 
